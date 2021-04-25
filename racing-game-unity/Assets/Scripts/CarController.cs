@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestScript : MonoBehaviour
+public class CarController : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -14,10 +14,5 @@ public class TestScript : MonoBehaviour
     void Update()
     {
         
-    }
-
-    void FixedUpdate() 
-    {
-
     }
 }
